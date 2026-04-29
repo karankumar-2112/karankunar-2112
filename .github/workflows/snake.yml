@@ -6,7 +6,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
@@ -15,8 +17,8 @@ jobs:
           github_user_name: karankumar-2112
           outputs: dist/github-contribution-grid-snake.svg
 
-      - uses: peaceiris/actions-gh-pages@v4
+      - name: Push Snake
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: dist
+          branch: output
+          folder: dist
