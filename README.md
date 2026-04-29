@@ -41,7 +41,7 @@ I am a passionate Data Analyst focused on solving real-world problems using data
 
 ---
 ## 🐍 Contribution Snake
-![Snake](https://github.com/karankumar-2112/karankumar-2112/blob/output/snake.svg?raw=true)
+![Snake](https://karankumar-2112.github.io/karankumar-2112/snake.svg)
 
 ## 🛠️ Skills
 
