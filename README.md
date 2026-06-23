@@ -5,9 +5,8 @@
 
 <p align="center">
   📧 <a href="mailto:mamtarajkumar1212@gmail.com">Email</a> •
-  💼 <a href="https://www.linkedin.com/in/karan-kumar-629312408">LinkedIn</a>
-</p>
-  <a href="https://github.com/karan">🌐 Portfolio</a>
+  💼 <a href="https://www.linkedin.com/in/karan-kumar-629312408">LinkedIn</a> •
+  🌐 <a href="https://github.com/karankumar-2112">Portfolio</a>
 </p>
 
 _______________________________________
