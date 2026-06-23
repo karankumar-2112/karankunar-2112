@@ -4,6 +4,10 @@
 💡 Turning Data into Insights | Real Projects
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Pandas+%7C+NumPy+%7C+Matplotlib+%7C+Seaborn" />
+</p>
+
+<p align="center">
   📧 <a href="mailto:mamtarajkumar1212@gmail.com">Email</a> •
   💼 <a href="https://www.linkedin.com/in/karan-kumar-629312408">LinkedIn</a> •
   🌐 <a href="https://github.com/karankumar-2112">Portfolio</a>
