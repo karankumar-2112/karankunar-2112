@@ -3,7 +3,7 @@
 🚀 Aspiring Data Analyst | SQL | Python | Power BI | Excel
 💡 Turning Data into Insights | Real Projects
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Python%20%20%7C%20%20SQL%20%20%7C%20%20Excel%20%20%7C%20%20Power%20BI;Pandas%20%20%7C%20%20NumPy%20%20%7C%20%20Matplotlib%20%20%7C%20%20Seaborn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Python%20%20%20%20%7C%20%20%20%20SQL%20%20%20%20%7C%20%20%20%20Excel%20%20%20%20%7C%20%20%20%20Power%20BI;Pandas%20%20%20%20%7C%20%20%20%20NumPy%20%20%20%20%7C%20%20%20%20Matplotlib%20%20%20%20%7C%20%20%20%20Seaborn" />
 </p>
 
 <p align="center">
