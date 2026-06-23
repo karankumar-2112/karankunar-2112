@@ -3,8 +3,8 @@
 🚀 Aspiring Data Analyst | SQL | Python | Power BI | Excel
 💡 Turning Data into Insights | Real Projects
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamtarajkumar1212@gmail.com)
-
+📧 Email: mamtarajkumar1212@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/karan-kumar-629312408
   <a href="https://github.com/karan">🌐 Portfolio</a>
 </p>
 
