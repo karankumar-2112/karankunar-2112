@@ -5,7 +5,13 @@
 
 <p align="left">
   <a href="mailto:mamtarajkumar1212@gmal.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/mamta-jatav-901245406">💼 LinkedIn</a> •
+  <h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karan-kumar-629312408" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
   <a href="https://github.com/karan">🌐 Portfolio</a>
 </p>
 
