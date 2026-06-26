@@ -42,11 +42,9 @@ I am a passionate Data Analyst focused on solving real-world problems using data
   <img  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 🐍 My Contribution Graph
-
-![Snake animation](https://github.com/karankumar-2112/karankumar-2112/blob/output/github-contribution-grid-snake.svg)
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karankumar-2112/karankumar-2112/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ## 🛠️ Skills
 
