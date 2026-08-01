@@ -22,7 +22,16 @@ I am a passionate Data Analyst focused on solving real-world problems using data
 - 📈 Built real-world projects
 - 🚀 Continuously learning and improving
 
+
+## 🛠️ Skills
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Excel
+- 📈 Power BI
+
 ---
+
 
 ## 🧰 Tech Stack & Tools
 
@@ -42,13 +51,6 @@ I am a passionate Data Analyst focused on solving real-world problems using data
   <img  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
-## 🛠️ Skills
-
-- 🐍 Python
-- 🗄️ SQL
-- 📊 Excel
-- 📈 Power BI
 
 ---
 
